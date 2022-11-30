@@ -1,4 +1,3 @@
-import Category from '../../routes/category/category.component';
 import ProductCard from '../product-card/product-card.component';
 
 import { CategoryPreviewContainer, Title, Preview } from './category-preview.styles';
